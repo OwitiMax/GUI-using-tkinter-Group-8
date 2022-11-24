@@ -39,6 +39,7 @@ Support for Tkinter is spread across several modules. Most applications will nee
 from tkinter import *
 from tkinter import ttk
 
+##### widgets that can be created using tkinter
 These are 19 widgets available in Python Tkinter module. Below we have all the widgets listed down with a basic description:
 
 Button	-If you want to add a button in your application then Button widget will be used.
@@ -58,5 +59,7 @@ Text -	The text widget mainly provides a multi-line text field to the user where
 Toplevel - The Toplevel widget is mainly used to provide us with a separate window container
 SpinBox -	The SpinBox acts as an entry to the "Entry widget" in which value can be input just by selecting a fixed value of numbers.
 PanedWindow -	The PanedWindow is also a container widget that is mainly used to handle different panes. Panes arranged inside it can either Horizontal or vertical
+##### summary
+generally the Tkinter llibrary is a good deal,one can create a gui without alot of concerns of importing other modules.since  tkinter is an inbuilt module and is generally simple to use.
 LabelFrame -	The LabelFrame widget is also a container widget used to mainly handle the complex widgets.
 MessageBox -	The MessageBox widget is mainly used to display messages in the Desktop applications.
