@@ -1,9 +1,9 @@
 # compiler-GUI-using-tkinter
 GUI that allows user to choose a java file and check whether the nesting have been done correctly
 group members
-##Noo maxwell owiti..........com/b/01-01819/2020
-##Brian otieno...............com/b/01-00099/2018
-##Hillary Kipkoech............com/b/01-00173/2020
+## Noo maxwell owiti..........com/b/01-01819/2020
+## Brian otieno...............com/b/01-00099/2018
+## Hillary Kipkoech............com/b/01-00173/2020
 
 ## Tkinter documentation
 
