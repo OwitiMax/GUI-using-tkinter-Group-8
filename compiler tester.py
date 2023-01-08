@@ -71,6 +71,4 @@ scrollbar=ttk.Scrollbar(root,orient='vertical',command=text.yview)
 scrollbar.grid(row=0,column=1,sticky=tk.NS,padx=2)
 #attach the scrollbar to the text widget
 text['yscrollcommand']=scrollbar.set(0,1)
-
-
 mainloop()
