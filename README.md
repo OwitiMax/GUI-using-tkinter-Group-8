@@ -1,4 +1,4 @@
-# compiler-GUI-using-tkinter
+# compiler-GUI-using-tkinter-group 8
 GUI that allows user to choose a java file and check whether the nesting have been done correctly
 group members
 ### Noo maxwell owiti..........com/b/01-01819/2020
@@ -63,3 +63,6 @@ PanedWindow -	The PanedWindow is also a container widget that is mainly used to 
 generally the Tkinter llibrary is a good deal,one can create a gui without alot of concerns of importing other modules.since  tkinter is an inbuilt module and is generally simple to use.
 LabelFrame -	The LabelFrame widget is also a container widget used to mainly handle the complex widgets.
 MessageBox -	The MessageBox widget is mainly used to display messages in the Desktop applications.
+
+##Kivy
+Kivy is an OpenGL ES 2 accelerated framework for the creation of new user interfaces. It supports multiple platforms namely Windows, MacOSX, Linux, Android iOS and Raspberry Pi. It is open source and comes with over 20 widgets in its toolkit.
